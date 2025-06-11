@@ -1,0 +1,11 @@
+build:
+    version: "3.0"
+
+cards:
+  message: "Welcome to EazyBank cards related local APIs "
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@eazybank.com"
+  onCallSupport:
+    - "(222) 275-3765"
+    - "(222) 784-8371"
